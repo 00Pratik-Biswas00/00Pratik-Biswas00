@@ -86,5 +86,4 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pratikbiswas8859)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%2300bdb7.svg?logo=leetcode&logoColor=white)](https://leetcode.com/pratik_biswas)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/pratik_biswas)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/_pratik_biswas_)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/_.pratik._.biswas._)
