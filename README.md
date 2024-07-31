@@ -11,9 +11,8 @@
 - 📫 How to reach me: 04biswaspratik@gmail.com
 - 👨‍💻 All of my projects are available at: https://pratikbiswas-2004.web.app/
 - 📄 Know about my experiences: https://drive.google.com/drive/folders/1W-rVoNZdPrJ3tKklty-iBI4uzHhfrtJX
-<!-- - 📝 I regularly write articles on myblogs.in -->
 - ⚡ Fun fact: My username on most platforms is "BICHITRO BONDHU" (❗Bengali Word).
-
+<!-- - 📝 I regularly write articles on myblogs.in -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-biswas-511812223) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Pratik_Biswas) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_pratik_biswas_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pratikbiswas8859) 
