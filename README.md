@@ -82,7 +82,7 @@
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-biswas-511812223)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Pratik_Biswas)
-[![](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_pratik_biswas_)
+[(https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_pratik_biswas_)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pratikbiswas8859)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%2300bdb7.svg?logo=leetcode&logoColor=white)](https://leetcode.com/pratik_biswas)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/pratik_biswas)
